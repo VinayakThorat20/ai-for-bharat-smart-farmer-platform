@@ -9,7 +9,7 @@ Indian farmers face major challenges due to lack of localized data, dependence o
 We propose an **AI-powered, location-specific decision support platform** that empowers farmers to:
 
 - Make informed crop decisions based on **local soil, rainfall, and historical data**
-- **Sell crops directly to companies**, eliminating brokers and middlemen
+- **Sell crops directly to companies and consumers**, eliminating brokers and middlemen
 - Receive **AI-based recommendations** for organic and minimal chemical inputs
 - Access **government schemes and subsidies** personalized to their profile
 - Use the platform in **local Indian languages with voice support**
@@ -54,7 +54,7 @@ The system follows a **microservices-based architecture** with separate services
 ## 📊 **Quantified Impact**
 
 60M small farmers × ₹5,000/season profit gain =
-₹3,00,000 Crore annual economic impact
+₹30,000 Crore annual economic impact
 
 |                **Problem**               |        **Our AI Fix**          |         **Impact**          |
 |------------------------------------------|--------------------------------|-----------------------------|
